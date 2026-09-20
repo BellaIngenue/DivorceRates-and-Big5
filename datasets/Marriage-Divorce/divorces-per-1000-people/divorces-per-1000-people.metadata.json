@@ -1,0 +1,39 @@
+{
+  "chart": {
+    "title": "Divorce rate",
+    "citation": "OECD (2025) and other sources",
+    "originalChartUrl": "https://ourworldindata.org/grapher/divorces-per-1000-people?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "United States",
+      "Singapore",
+      "Norway",
+      "Peru",
+      "Chile",
+      "Mexico",
+      "Turkey",
+      "South Korea",
+      "Germany"
+    ]
+  },
+  "columns": {
+    "Crude divorce rate": {
+      "titleShort": "Crude divorce rate",
+      "titleLong": "Crude divorce rate",
+      "descriptionShort": "Number of divorces during a given year per 1,000 people.",
+      "descriptionProcessing": "",
+      "unit": "per 1,000 people",
+      "timespan": "1960-2022",
+      "type": "Numeric",
+      "owidVariableId": 1108421,
+      "shortName": "value__gender_both__indicator_divorce_rate",
+      "lastUpdated": "2025-10-07",
+      "nextUpdate": "2026-10-07",
+      "citationShort": "OECD (2025) and other sources – with minor processing by Our World in Data",
+      "citationLong": "OECD (2025); OECD (2024); US Census Bureau (1949); Centers for Disease Control and Prevention (2020) – with minor processing by Our World in Data. “Crude divorce rate” [dataset]. OECD, “OECD Family Database – Marriage and Divorce Rates”; OECD, “OECD Family Database”; US Census Bureau, “Vital Statistics, Health, and Nutrition Series”; Centers for Disease Control and Prevention, “Marriage Rates in the United States” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1108421.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-09-20",
+  "activeFilters": {}
+}
